@@ -1,0 +1,24 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "Receive the file size in bytes within the JSON response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Li-Victor/File-Metadata.git"
+  },
+  "author": "Victor Li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Li-Victor/File-Metadata/issues"
+  },
+  "homepage": "https://github.com/Li-Victor/File-Metadata#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "multer": "^1.3.0"
+  }
+}
