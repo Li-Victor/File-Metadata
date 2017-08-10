@@ -4,7 +4,7 @@
   "description": "Receive the file size in bytes within the JSON response",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",

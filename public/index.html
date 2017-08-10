@@ -11,17 +11,18 @@
 
         <div class="container">
             <h1>File Metadata</h1>
-            <h3>Submit a file to view its filesize</h3>
+            <h3>Submit a file to view its metadata</h3>
 
             <form action="/" method="post" enctype="multipart/form-data">
                 <label for="file">File: </label>
-                <input type="file" name="fileName" value="fileValue">
+                <input type="file" name="fileName">
 
                 </br>
-                <button type="submit" name="submit" value="submit">Submit</button>
+                <button type="submit" name="submit" value="submit" disabled>Submit</button>
             </form>
 
         </div>
 
+        <script src="./script.js"></script>
     </body>
 </html>
