@@ -10,4 +10,4 @@ Made with Express.js
 
 First you would need NodeJS installed.
 
-To run the program: `npm start`
+Run the command `npm install` to install dependencies, and to run the program use: `npm start`
